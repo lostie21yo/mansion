@@ -1,5 +1,8 @@
 # Mansion project using Three.js
 
+## Open
+You can open the project online via this link [Rock Scene Three.js project](https://jazzy-torte-a01f0a.netlify.app/)
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
