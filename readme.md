@@ -1,4 +1,6 @@
 # Mansion project using Three.js
+## Description
+Mansion is a study project using Three.js to make a 3D scene. Currenly unavailable.
 
 ## Open
 You can open the project online via this link [Mansion project](https://jazzy-torte-a01f0a.netlify.app/)
